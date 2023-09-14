@@ -1,0 +1,16 @@
+@media screen and (max-width: 800px) {
+
+    body { background-color: yellow; 
+            color: blueviolet;
+            font-size: 2rem;
+    
+        }
+}
+
+@media screen and (min-width: 800px) {
+
+    body {      background-color: blueviolet;  
+                color: red;
+                font-size: 2rem;     }
+    
+}
